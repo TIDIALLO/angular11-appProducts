@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "computer",
+      "price": 50000,
+      "quantity": "45000",
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "printer",
+      "price": 5000,
+      "quantity": 50,
+      "selected": false,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "chargeur",
+      "price": 5000,
+      "quantity": 50,
+      "selected": false,
+      "available": false
+    },
+    {
+      "name": "souris",
+      "price": "2000",
+      "quantity": "49",
+      "selected": true,
+      "available": true,
+      "id": 5
+    },
+    {
+      "id": 6,
+      "name": "clavier",
+      "price": "2800",
+      "quantity": "2",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
